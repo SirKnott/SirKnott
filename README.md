@@ -13,8 +13,10 @@ Welcome to my GitHub profile! I am a musician, interested in coding, and am a me
 
 Here are some of the technologies and tools I work with:
 
-**Languages:** Learning Kotlin :3
-**Tools:** Git
+**Languages:** Learning Kotlin.
+
+**Tools:** Git.
+
 **Other:** Teamwork, communication.
 
 ## GitHub Stats
